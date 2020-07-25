@@ -9,6 +9,17 @@ import Rank from "./Components/Rank/Rank";
 import Particles from 'react-particles-js';
 import './App.css';
 
+const particlesOptions = {
+    particles: {
+        number: {
+            value: 150,
+            density: {
+                enable: true,
+                value_area: 1000,
+            },
+        },
+    },
+}
 
 const initialState = {
     input: '',
@@ -25,23 +36,12 @@ const initialState = {
     }
 }
 
-const particlesOptions = {
-    particles: {
-        number: {
-            value: 150,
-            density: {
-                enable: true,
-                value_area: 1000,
-            },
-        },
-    },
-}
-
 class App extends Component {
     constructor() {
         super();
         this.state = initialState;
     }
+
     loadUser = (user) => {
         this.setState({
             user: {
