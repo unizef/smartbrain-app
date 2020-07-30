@@ -24,4 +24,4 @@ particles
 
 #### Smartface Api
 
-:arrow_right: &nbsp; [smartface-api repo](https://recognition-smart-brain.herokuapp.com/)
+:arrow_right: &nbsp; [smartface-api repo](https://github.com/unizef/smartface-api)
