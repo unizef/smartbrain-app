@@ -1,4 +1,4 @@
-## Smartface-app
+## :alien: Smartface-app
 
 This application let's you detect faces by copying and pasting url's of pictures inside the detect field.
 
@@ -14,7 +14,7 @@ I deployed this app on Heroku using the free plan. Therefore it can take a minut
 
 ****
 
-:wrench: ### Tech Stack
+### :wrench: Tech Stack
 create-react-app <br/>
 clarifai <br/>
 tachyons <br/>
