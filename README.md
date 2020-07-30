@@ -10,7 +10,7 @@ Users can register, signin and all their face detections will be saved and retur
 
 I deployed this app on Heroku using the free plan. Therefore it can take a minute to launch.
 
-:arrow_right: &nbsp; [smartface link](https://recognition-smart-brain.herokuapp.com/)
+:arrow_right: &nbsp; [smartface link](https://smartface-detection-app.herokuapp.com/)
 
 ****
 
