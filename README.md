@@ -19,7 +19,7 @@ create-react-app <br/>
 clarifai <br/>
 tachyons <br/>
 particles <br/>
-Postgres
+
 ****
 
 #### Smartface Api
