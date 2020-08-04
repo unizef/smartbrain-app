@@ -18,8 +18,8 @@ I deployed this app on Heroku using the free plan. Therefore it can take a minut
 create-react-app <br/>
 clarifai <br/>
 tachyons <br/>
-particles 
-
+particles <br/>
+Postgres
 ****
 
 #### Smartface Api
