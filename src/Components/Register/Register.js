@@ -23,7 +23,7 @@ class Register extends Component {
     }
 
     onSubmitSignIn = () => {
-        fetch('https://pure-peak-91069.herokuapp.com/register', {
+        fetch('https://smartface-detection-api.herokuapp.com/register', {
             method: 'post',
             headers: {'Content-Type': 'application/json'},
             body: JSON.stringify({
